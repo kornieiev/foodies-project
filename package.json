@@ -1,11 +1,8 @@
 {
   "name": "foodies",
   "version": "0.1.0",
-  "homepage": "https://kornieiev.github.io/foodies-project",
   "private": true,
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

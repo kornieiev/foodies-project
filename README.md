@@ -1,8 +1,8 @@
 # Foodies-project (next + react + react-dom + better-sqlite3 + aws)
 
-### Share their favorite recipes!
+## Share their favorite recipes!
 
-## Used technologies:
+### Used technologies:
 
 - next
 - react
